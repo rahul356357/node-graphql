@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "firstName": "killer",
+      "id": "40"
+    },
+    {
+      "id": "41",
+      "firstName": "Nick",
+      "age": 40,
+      "companyId": "2"
+    },
+    {
+      "firstName": "rahul",
+      "age": 32,
+      "id": "UtsnFZ4"
+    },
+    {
+      "firstName": "rahul",
+      "age": 32,
+      "id": "cl9U32F"
+    },
+    {
+      "firstName": "rahul",
+      "age": 32,
+      "id": "CiN9_Cu"
+    },
+    {
+      "firstName": "rahul",
+      "age": 32,
+      "id": "uB3F4m3"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "iphone"
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "description": "search"
+    }
+  ]
+}
